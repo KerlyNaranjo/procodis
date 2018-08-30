@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Synchronization Child
+ Theme URI:
+ Description:  Twenty Fourteen Child Theme
+ Author:       Kerly Naranjo
+ Author URI:   http://jenrohrig.com
+ Template:     synchronization
+ Version:      1.0.2
+ License: GPL 2.0
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: synchronization-child
+ Tags: one-column, two-columns, right-sidebar, custom-header, custom-background, custom-menu, custom-colors, custom-logo, threaded-comments, translation-ready, accessibility-ready, featured-images, flexible-header, editor-style, rtl-language-support
+*/
+
+@import url("../synchronization/style.css");
+
+.logo-redes {
+    width: 60px;
+}
+
+.card-img-top {
+    max-width: 130px;
+    margin: auto;
+    display: flex;
+}

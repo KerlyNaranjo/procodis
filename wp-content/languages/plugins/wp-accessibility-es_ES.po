@@ -1,0 +1,540 @@
+# Translation of Plugins - WP Accessibility - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Accessibility - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-24 15:33:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Accessibility - Stable (latest release)\n"
+
+#. Translators: Contrast ratio, foreground Hex color, background Hex color.
+#: wp-accessibility-settings.php:474
+msgid "Luminosity Contrast Ratio for %2$s and %3$s is %1$s (Threshold: greater than 7:1 for AAA, 4.5:1 for AA)"
+msgstr "El radio de contraste de luminosidad para %2$s y %3$s es %1$s (Umbral: más de 7:1 para AAA, 4.5:1 para AA)"
+
+#: wp-accessibility-settings.php:420
+msgid "Non-visually identify currently active menu item"
+msgstr "Identificación no visual del elemento de menú activo actualmente"
+
+#: wp-accessibility-settings.php:285
+msgid "The grayscale toggle is only intended for testing, and will appear only for logged-in administrators"
+msgstr "El alternador a escala de grises solo está para  hacer pruebas, y lo verán solo los administradores conectados"
+
+#: wp-accessibility-settings.php:623
+msgid "Author high-contrast styles by placing a stylesheet called <code>a11y-contrast.css</code> in your Theme's stylesheet directory."
+msgstr "Añade estilos de alto contraste poniendo una hoja de estilos llamada <code>a11y-contrast.css</code> en el directorio de la hoja de estilos de tu tema."
+
+#: wp-accessibility-settings.php:620
+msgid "It is almost impossible for the Accessibility Toolbar to guarantee a good result for large text or high contrast modes."
+msgstr "Es casi imposible para la barra de herramientas de accesibilidad garantizar un buen resultado en textos grandes o de alto contraste."
+
+#. Translators: URL to visit Access Monitor at WordPress.org.
+#: wp-accessibility-settings.php:589
+msgid "Try using <a href=\"%s\">Access Monitor</a> to do scheduled and on-demand evaluations of your web site accessibility."
+msgstr "Prueba a usar <a href=\"%s\">Access Monitor</a> para hacer evaluaciones programadas y a voluntad de la accesibilidad de tu web."
+
+#: wp-accessibility-settings.php:583
+msgid "Access Monitor"
+msgstr "Access Monitor"
+
+#: wp-accessibility-settings.php:281
+msgid "Exclude contrast toggle from Accessibility toolbar"
+msgstr "Excluye opción de cambio de contraste de la barra de herramientas de accesibilidad"
+
+#: wp-accessibility-settings.php:277
+msgid "Exclude font size toggle from Accessibility toolbar"
+msgstr "Excluye opción de cambio de tamaño de fuente de la barra de herramientas de accesibilidad"
+
+#: wp-accessibility-settings.php:399
+msgid "Support <code>longdesc</code> on featured images"
+msgstr "Soporte de <code>longdesc</code> en imágenes destacadas"
+
+#: wp-accessibility.php:330
+msgid "Skip links"
+msgstr "Enlaces de salto"
+
+#: wp-accessibility-settings.php:325
+msgid "Hide toolbar on small screens."
+msgstr "Ocultar barra de herramientas en pantallas pequeñas."
+
+#: wp-accessibility-settings.php:166
+msgid "Toolbar Settings Updated"
+msgstr "Actualizada configuración de la barra de herramientas"
+
+#: wp-accessibility-settings.php:333
+msgid "Update Toolbar Settings"
+msgstr "Actualizar configuración de la barra de herramientas"
+
+#. Translators: URL to donate.
+#: wp-accessibility-settings.php:533
+msgid "Please, consider <a href=\"%s\">making a donation</a> to support WP Accessibility!"
+msgstr "Por favor, considera el <a href=\"%s\">realizar una donación</a> para dar soporte a WP Accessibility!"
+
+#: wp-accessibility-settings.php:313
+msgid "Use alternate font resizing stylesheet"
+msgstr "Usar hoja de estilos alternativa para cambio de tamaño de fuente"
+
+#: wp-accessibility-settings.php:290
+msgid "Toolbar location (ID attribute)"
+msgstr "Localización de la barra de herramientas (Atributo ID)"
+
+#: wp-accessibility-settings.php:321
+msgid "Place toolbar on right side of screen."
+msgstr "Pon la barra de herramientas en la parte derecha de la pantalla."
+
+#: wp-accessibility-settings.php:267
+msgid "Accessibility Toolbar Settings"
+msgstr "Ajustes de la barra de herramientas de accesibilidad"
+
+#: wp-accessibility-alt.php:85
+msgid "All images must either have an alt attribute or be declared as decorative."
+msgstr "Todas la imágenes deben tener un atributo alt o ser declaradas como decorativas."
+
+#: wp-accessibility-alt.php:139
+msgid "This image requires alt text, but the alt text is currently blank. Either add alt text or mark the image as decorative."
+msgstr "Esta imagen necesita un texto en alt, está vacío. Añade un texto o marca la imagen como decorativa."
+
+#. Description of the plugin/theme
+msgid "Helps improve accessibility in your WordPress site, like removing title attributes."
+msgstr "Ayuda a mejorar la accesibilidad en tu sitio WordPress, como eliminando los atributos de título."
+
+#: wp-accessibility-alt.php:136
+msgid "The alt text for this image is the same as the title. In most cases, that means that the alt attribute has been automatically provided from the image file name."
+msgstr "El texto alternativo para esta imagen es el mismo que el título. En la mayoría de los casos, esto significa que el atributo alt ha sido automáticamente provisto con el nombre de archivo de la imagen."
+
+#. Author of the plugin/theme
+msgid "Joe Dolson"
+msgstr "Joe Dolson"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Accessibility"
+msgstr "WP Accessibility"
+
+#. Author URI of the plugin/theme
+msgid "http://www.joedolson.com/"
+msgstr "http://www.joedolson.com/"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.joedolson.com/wp-accessibility/"
+msgstr "http://www.joedolson.com/wp-accessibility/"
+
+#: wp-accessibility-alt.php:26
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: wp-accessibility-alt.php:52 wp-accessibility-alt.php:82
+msgid "Decorative"
+msgstr "Decorativo"
+
+#: wp-accessibility-alt.php:54
+msgid "Has <code>alt</code>"
+msgstr "Tiene código <code>alt</code>"
+
+#: wp-accessibility-alt.php:49
+msgid "Add <code>alt</code> text"
+msgstr "Añadir texto <code>alt</code>"
+
+#: wp-accessibility-alt.php:59
+msgid "N/A"
+msgstr "N/A"
+
+#: wp-accessibility.php:640
+msgid "From:"
+msgstr "De:"
+
+#: wp-accessibility.php:654
+msgid "Send Support Request"
+msgstr "Enviar Solicitud de Asistencia:"
+
+#: wp-accessibility.php:651
+msgid "Support Request:"
+msgstr "Solicitud de Asistencia:"
+
+#: wp-accessibility.php:656
+msgid "The following additional information will be sent with your support request:"
+msgstr "La siguiente información adicional será enviada junto con su solicitud de asistencia:"
+
+#: wp-accessibility.php:628
+msgid "I cannot provide support, but will treat your request as a bug report, and will incorporate any permanent solutions I discover into the plug-in."
+msgstr "No puedo dar soporte, pero consideraré tu petición como un reporte de error e incorporaré al plugin cualquier solución definitiva que descubra."
+
+#. Translators: Frequently Asked Questions URL.
+#: wp-accessibility.php:644
+msgid "I have read <a href=\"%s\">the FAQ for this plug-in</a> <span>(required)</span>"
+msgstr "He leído <a href=\"%s\">las FAQ de éste plugin</a> <span>(obligatorio)</span>"
+
+#. Translators: Donation URL.
+#: wp-accessibility.php:648
+msgid "I <a href=\"%s\">made a donation</a> to help support this plugin"
+msgstr "Ya <a href=\"%s\"> hice una donación para ayudar a este plugin.</a>"
+
+#: wp-accessibility.php:622
+msgid "Please describe your problem. I'm not psychic."
+msgstr "Por favor, describa su problema. No soy adivino."
+
+#: wp-accessibility.php:620
+msgid "Please read the FAQ and other Help documents before making a support request."
+msgstr "Por favor, lea las PMF y la Ayuda antes de hacer una solicitud de asistencia."
+
+#: wp-accessibility.php:626
+msgid "Thank you for supporting the continuing development of this plug-in! I'll get back to you as soon as I can."
+msgstr "Gracias por apoyar el desarrollo continuado de este plug-in! Me pondré en contacto en cuanto pueda."
+
+#: wp-accessibility-settings.php:629
+msgid "Define a custom long description template by adding the template \"longdesc-template.php\" to your theme directory."
+msgstr "Definir una plantilla personalizada para la descripción larga  añadiendo la plantilla \"longdesc-template.php\" al directorio de tu tema."
+
+#: wp-accessibility-settings.php:626
+msgid "Define custom styles for large print by assigning them in the body class <code>.fontsize</code> in your theme stylesheet."
+msgstr "Definir estilos personalizados para letras grandes asignándoles en la clase \".body\" <code>.fontsize </code> en la hoja de estilos tema."
+
+#: wp-accessibility-settings.php:632
+msgid "The <a href=\"#wpa_widget_toolbar\">shortcode for the Accessibility toolbar</a> (if enabled) is <code>[wpa_toolbar]</code>"
+msgstr "El  <a href=\"#wpa_widget_toolbar\"> shortcode para la barra de accesibilidad</a> (Si está activa) es <code>[wpa_toolbar]</code>"
+
+#: wp-accessibility-settings.php:641
+msgid "Your Theme"
+msgstr "Tu tema"
+
+#: wp-accessibility-settings.php:566
+msgid "<a href=\"http://www.joedolson.com/donate/\">Make a donation today!</a> Your donation counts - donate $5, $20, or $100 and help me keep this plug-in running!"
+msgstr "<a href=\"http://www.joedolson.com/donate/\">¡Dona hoy mismo!!</a> Tu donación cuenta: ¡Dona $5, $20 o $100 y ayúdame a mantener funcionando este plugin!"
+
+#: wp-accessibility-settings.php:645
+msgid "You're using a theme reviewed as <code>accessibility-ready</code> by the WordPress theme review team. Some options have been disabled in WP Accessibility because your theme has taken care of that issue."
+msgstr "Estás usando un tema indicado como <code>accessibility-ready</code> por el equipo de WordPress de revisión de temas. Algunas opciones han sido desactivadas en WP Accessibility porque tu tema ya ha tenido en cuenta ese problema."
+
+#. Translators: URL to read about the accessibility ready tag requirements.
+#: wp-accessibility-settings.php:650
+msgid "Read more about the <a href=\"%s\">WordPress accessibility-ready tag</a>"
+msgstr "Leer más sobre la <a href=\"%s\">etiqueta de accesibilidad WordPress</a>"
+
+#: wp-accessibility-settings.php:563
+msgid "If you've found WP Accessibility useful, then please consider <a href='http://wordpress.org/extend/plugins/wp-accessibility/'>rating it five stars</a>, <a href='http://www.joedolson.com/donate/'>making a donation</a>, or <a href='https://translate.wordpress.org/projects/wp-plugins/wp-accessibility'>helping with translation</a>."
+msgstr "Si encuentras que WP Accessibility es útil, por favor considera <a href='http://wordpress.org/extend/plugins/wp-accessibility/'>valorarlo con cinco estrellas</a>, <a href='http://www.joedolson.com/donate/'>hacer una donación</a>, o <a href='https://translate.wordpress.org/projects/wp-plugins/wp-accessibility'>ayudar con la traducción</a>."
+
+#: wp-accessibility-settings.php:598
+msgid "Accessibility References"
+msgstr "Referencias de Accesibilidad"
+
+#: wp-accessibility-settings.php:521
+msgid "Check Color Contrast"
+msgstr "Compruebe el Contraste de Colores"
+
+#: wp-accessibility-settings.php:661
+msgid "Contributing References"
+msgstr "Referencias de Contribución"
+
+#: wp-accessibility-settings.php:616
+msgid "Customization Notes"
+msgstr "Notas de personalización"
+
+#: wp-accessibility-settings.php:526
+msgid "Get Plug-in Support"
+msgstr "Obtenga soporte técnico para el Plug-in"
+
+#: wp-accessibility-settings.php:548
+msgid "Support this Plugin"
+msgstr "Apoye este Plugin"
+
+#: wp-accessibility-settings.php:407
+msgid "Remove title attributes inserted into post content and featured images."
+msgstr "Eliminar los atributos 'title' insertados en el contenido de la entrada y de las imágenes destacadas."
+
+#: wp-accessibility-settings.php:273
+msgid "Add Accessibility toolbar with fontsize adjustment and contrast toggle"
+msgstr ""
+"Añadir barra de herramientas de Accesibilidad con ajuste de tamaño de letra y \t\n"
+"conmutador de contraste"
+
+#: wp-accessibility-settings.php:415
+msgid "Add outline to elements on keyboard focus"
+msgstr "Añadir contorneado a los elementos bajo foco de teclado"
+
+#: wp-accessibility-settings.php:511
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: wp-accessibility-settings.php:456
+msgid "Color Contrast Tester"
+msgstr "Evaluador de Color de Contraste"
+
+#: wp-accessibility-settings.php:299
+msgid "Default size"
+msgstr "Tamaño por defecto"
+
+#: wp-accessibility-settings.php:411
+msgid "Enable diagnostic CSS"
+msgstr "Habilitar el diagnóstico de CSS"
+
+#: wp-accessibility-settings.php:506
+msgid "Foreground color"
+msgstr "Color de primer plano"
+
+#: wp-accessibility-settings.php:285
+msgid "Include grayscale toggle with Accessibility toolbar"
+msgstr "Incluir conmutador de escala de grises con la barra de herramientas de accesibilidad"
+
+#: wp-accessibility-settings.php:416
+msgid "Outline color (hexadecimal, optional)"
+msgstr "Contornear color (hexadecimal, opcional)"
+
+#: wp-accessibility-settings.php:317
+msgid "Support Accessibility toolbar as shortcode or widget"
+msgstr "Barra de soporte de accesibilidad como \"shortcode\" o \"widget\""
+
+#: wp-accessibility-settings.php:487
+msgid "Test another set of colors"
+msgstr "Evaluar otro conjunto de colores"
+
+#: wp-accessibility-settings.php:502
+msgid "Test of relative luminosity"
+msgstr "Prueba de luminosidad relativa"
+
+#: wp-accessibility-settings.php:485
+msgid "The colors compared <strong>do not pass</strong> the relative luminosity test."
+msgstr "Los colores comparados <strong>no pasaron</strong> la prueba de luminosidad relativa."
+
+#: wp-accessibility-settings.php:479
+msgid "The colors compared <strong>pass</strong> the relative luminosity test at level AA."
+msgstr "Los colores comparados <strong>pasaron</strong> la prueba de luminosidad relativa al nivel AA."
+
+#: wp-accessibility-settings.php:476
+msgid "The colors compared <strong>pass</strong> the relative luminosity test at level AAA."
+msgstr "Los colores comparados <strong>pasaron</strong> la prueba de luminosidad relativa al nivel AAA."
+
+#: wp-accessibility-settings.php:482
+msgid "The colors compared pass the relative luminosity test <strong>only when used in large print</strong> situations (greater than 18pt text or 14pt bold text.)"
+msgstr "Los colores comparados pasaron la prueba de luminosidad relativa <strong>sólo cuando fueron usados en situaciones con letra grande</strong> ( tamaño de texto de más de 18 pt o texto en negrita de 14 pt)."
+
+#: wp-accessibility-settings.php:297
+msgid "Toolbar font size"
+msgstr "Tamaño de fuente de la Barra de Herramientas"
+
+#: wp-accessibility-settings.php:428
+msgid "Update Miscellaneous Settings"
+msgstr "Actualice configuraciones varias"
+
+#: wp-accessibility-settings.php:364
+msgid "Automatically Label WordPress search form and comment forms"
+msgstr "Etiquetar el formulario de búsqueda y los formularios de comentarios automáticamente"
+
+#: wp-accessibility-settings.php:369
+msgid "<strong>Four disabled features:</strong> Site language, continue reading text, landmark roles and standard form labels are defined in your <code>accessibility-ready</code> theme."
+msgstr "<strong>Cuatro características desactivadas:</strong> Idioma del sitio, texto de sigue leyendo, historial de roles de usuario y etiquetas de formulario estándar son definidas en tu tema <code>accessibility-ready</code>."
+
+#: wp-accessibility-settings.php:348
+msgid "Add Site Language and text direction to HTML element"
+msgstr "Añadir Idioma del Sitio y dirección del texto a un elemento HTML"
+
+#: wp-accessibility-settings.php:358
+msgid "Add landmark roles to HTML5 structural elements"
+msgstr "Añadir roles <em>landmark</em> a elementos estructurales HTML. "
+
+#: wp-accessibility-settings.php:352
+msgid "Add post title to \"more\" links."
+msgstr "Añadir título de artículo a los enlaces \"más\"."
+
+#: wp-accessibility-settings.php:392
+msgid "Browser defaults only"
+msgstr "Sólo por defecto del navegador"
+
+#: wp-accessibility-settings.php:394
+msgid "Button trigger to overlay image"
+msgstr "Botón disparador para superposición de imágenes"
+
+#: wp-accessibility-settings.php:353
+msgid "Continue reading text"
+msgstr "Continúe leyendo el texto"
+
+#: wp-accessibility-settings.php:379
+msgid "Force search error on empty search submission (theme must have search.php template)"
+msgstr "Forzar error en la búsqueda cuando el campo de búsqueda esté vacío (el tema debe tener la plantilla search.php)"
+
+#: wp-accessibility-settings.php:387
+msgid "Force underline on all links"
+msgstr "Forzar subrallado en todos los enlaces"
+
+#: wp-accessibility-settings.php:359
+msgid "ID for complementary role"
+msgstr "ID para roles complementarios"
+
+#: wp-accessibility-settings.php:393
+msgid "Link to description"
+msgstr "Link a la descripción"
+
+#: wp-accessibility-settings.php:390
+msgid "Long Description UI"
+msgstr "Descripción Larga UI"
+
+#: wp-accessibility-settings.php:403
+msgid "Make row actions always visible"
+msgstr "Hacer que las acciones de columna sean siempre visibles"
+
+#: wp-accessibility-settings.php:383
+msgid "Remove tabindex from focusable elements"
+msgstr "Eliminar tabulación de la indexación de elementos enfocables"
+
+#: wp-accessibility-settings.php:375
+msgid "Remove target attribute from links"
+msgstr "Eliminar atributo de destino en los enlaces"
+
+#: wp-accessibility-settings.php:195
+msgid "Your <code>accessibility-ready</code> theme has skip links built in."
+msgstr "Tu tema marcado como <code>accessibility-ready</code> incluye enlaces de salto."
+
+#: wp-accessibility-settings.php:237
+msgid "(Not currently visible)"
+msgstr "(No visible en ese momento)"
+
+#: wp-accessibility-settings.php:188
+msgid "Add Skiplinks"
+msgstr "Añadir Enlaces de Salto"
+
+#: wp-accessibility-settings.php:225
+msgid "Add your own link (link or container ID)"
+msgstr "Añada su propio enlace (ID del contenedor o del enlace)"
+
+#: wp-accessibility-settings.php:202
+msgid "Configure Skiplinks"
+msgstr "Configurar Enlaces de Salto"
+
+#: wp-accessibility-settings.php:206
+msgid "Enable Skiplinks"
+msgstr "Habilitar Enlaces de Salto"
+
+#: wp-accessibility-settings.php:227
+msgid "Link text for your link"
+msgstr "Texto de enlace para el enlace"
+
+#: wp-accessibility-settings.php:338
+msgid "Miscellaneous Accessibility Settings"
+msgstr "Configuraciones varias de Accesibilidad"
+
+#: wp-accessibility-settings.php:221
+msgid "Site Map link target (URL for your site map)"
+msgstr "Enlace de destino para el Mapa del Sitio (URL de su Mapa del Sitio)"
+
+#: wp-accessibility-settings.php:213
+msgid "Skip to Content link target (ID of your main content container)"
+msgstr "Saltar al Contenido (ID del contenedor principal de contenido)"
+
+#: wp-accessibility-settings.php:217
+msgid "Skip to Navigation link target (ID of your main navigation container)"
+msgstr "Saltar al enlace de Navegación de destino (ID del contenedor principal de contenido)"
+
+#: wp-accessibility-settings.php:210
+msgid "Skiplinks always visible"
+msgstr "Enlaces de Salto siempre visibles"
+
+#: wp-accessibility-settings.php:231
+msgid "Styles for Skiplinks when they have focus"
+msgstr "Estilos para los Enlaces de Salto cuando son enfocados"
+
+#: wp-accessibility-settings.php:246
+msgid "Styles for Skiplinks without focus"
+msgstr "Estilos para los Enlaces de Salto cuando no son enfocados"
+
+#: wp-accessibility-settings.php:442
+msgid "Tag clouds"
+msgstr "Nubes de etiquetas"
+
+#: wp-accessibility-settings.php:259
+msgid "Update Skiplink Settings"
+msgstr "Actualizar Configuración de los Enlaces de Salto"
+
+#: wp-accessibility-settings.php:451
+msgid "Update Title Attribute Settings"
+msgstr "Actualizar Configuración Atributos de Título"
+
+#: wp-accessibility-settings.php:99
+msgid "Add Skiplinks Settings Updated"
+msgstr "Añadir Enlaces de Salto Configuración Actualizada"
+
+#: wp-accessibility-settings.php:140
+msgid "Miscellaneous Accessibility Settings Updated"
+msgstr "Configuraciones varias de Accesibilidad Actualizadas"
+
+#: wp-accessibility-settings.php:433
+msgid "Remove Title Attributes"
+msgstr "Eliminar Atributos de Título"
+
+#: wp-accessibility-settings.php:439
+msgid "Remove title attributes from:"
+msgstr "Eliminar Atributos de Título de:"
+
+#: wp-accessibility-settings.php:95
+msgid "WP Accessibility does not provide any styles for visible skiplinks. You can still set the look of the links using the textareas provided, but all other layout must be assigned in your theme."
+msgstr "WP Accesibilidad no proporciona ningún estilo para enlaces de salto visibles. Aún así puede configurar el aspecto de los enlaces con las áreas de texto proporcionadas, pero el resto del diseño debe estar asignado en el tema."
+
+#: wp-accessibility-settings.php:182
+msgid "WP Accessibility: Settings"
+msgstr "WP Accessibility: Configuración"
+
+#: wp-accessibility-settings.php:74
+msgid "Remove Title Attributes Settings Updated"
+msgstr "Eliminar Atributos de Título Configuración Actualizada"
+
+#: wp-accessibility.php:327
+msgid "Site map"
+msgstr "Mapa del sitio"
+
+#: wp-accessibility.php:326
+msgid "Skip to navigation"
+msgstr "Saltar a la navegación"
+
+#: wp-accessibility.php:325
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: wp-accessibility-toolbar.php:23 wp-accessibility-toolbar.php:81
+msgid "Toggle Font size"
+msgstr "Alternar Tamaño de Letra"
+
+#: wp-accessibility-toolbar.php:22 wp-accessibility-toolbar.php:80
+msgid "Toggle Grayscale"
+msgstr "Alternar Escala de Grises"
+
+#: wp-accessibility-toolbar.php:21 wp-accessibility-toolbar.php:79
+msgid "Toggle High Contrast"
+msgstr "Alternar Alto Contraste"
+
+#: class-wp-accessibility-toolbar.php:33
+msgid "Accessibility Toolbar"
+msgstr "Barra de herramientas Accesibilidad  "
+
+#: class-wp-accessibility-toolbar.php:66
+msgid "Title:"
+msgstr "Título:"
+
+#: wp-accessibility.php:165
+msgid "Comment"
+msgstr "Comentar"
+
+#: wp-accessibility.php:164
+msgid "Website"
+msgstr "Sitio Web"
+
+#: wp-accessibility.php:163
+msgid "Email"
+msgstr "Email"
+
+#: wp-accessibility.php:162
+msgid "Name"
+msgstr "Nombre"
+
+#: wp-accessibility.php:161
+msgid "Search"
+msgstr "Buscar"
+
+#: wp-accessibility.php:117
+msgid "Accessibility Settings"
+msgstr "Configuración de Accesibilidad"
+
+#: templates/longdesc-template.php:36
+msgid "Return to article."
+msgstr "Volver al artículo"
